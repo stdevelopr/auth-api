@@ -1,7 +1,7 @@
 # auth_api
 JWT Authentication API
 
-This app is writen in Node.js\
+This app is writen in Node.js
 - To execute the server, just run:\
 ```node index.js```
 
